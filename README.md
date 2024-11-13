@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning sobre tecnologia
 - 💞️ I’m looking to collaborate on em desenvolver projetos
 - 📫 How to reach me DF
-- 😄 Pronouns: Abel
+- 😄 Pronouns: Ele
 - ⚡ Fun fact: Gosto de pedalar nas horas vagas
 
 <!---
